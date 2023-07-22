@@ -1,2 +1,4 @@
 # odin-recipe
-In this project, I am going to build a basic recipe website
+In this project, I am going to build a basic recipe website.
+
+Now that I've completed this assignment, I'm exicted to say I learned a lot in a short amount of time. I learned how to use hypertext links to link to other pages. I learned how to move files to different directories, which I used to move downloaded images to my recipes images directory. In the previous lesson I learned to attach images but still was excited attaching images in this assignment. I'm probably forgetting some lessons learned but overall I'm happy with my results. I cut corners a bit with the recipe descriptions but regardless I created a working recipe webpage. I first tried coding when I was 12, and was unfortunately was discouraged out of it. But here I am today, back on the path I started all those years ago. I look forward to everything I'll make over the course of the life I have ahead of me.
