@@ -3,4 +3,22 @@ body {
     margin: auto;
     position: absolute;
     left: 50px;
+    color: beiges;
+
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    font-size: 35px;
+    color: brown;
+    font-weight: bold;
+}
+
+h2,
+h3 {
+    color: brown;
 }
